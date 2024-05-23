@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+#block-nav {
+  background-color: black;
+}
+
+.items-nav {
+  display: inline;
+}
+
+.btn-nav {
+  background-color: black;
+  color: white;
+  border:  0px;
+  font-size: 30px;
+  padding: 1.5%;
+}
